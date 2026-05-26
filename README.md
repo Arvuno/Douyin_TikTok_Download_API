@@ -509,3 +509,6 @@ Web main interface:
 > Start: 2021/11/06
 
 > GitHub: [@Evil0ctal](https://github.com/Evil0ctal)
+
+## Contributing
+PRs welcome!
