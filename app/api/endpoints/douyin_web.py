@@ -396,7 +396,7 @@ async def fetch_live_room_product_result(request: Request,
     ### Purpose:
     - Douyin live room product information
     ### Parameters:
-    - cookie: User's web version of Douyin Cookie (This interface requires users to provide their own Cookie, if the acquisition fails, please manually pass the captcha code once)
+    - cookie: User's web version of Douyin Cookie (This interface requires users to provide their own Cookie, if the acquisition fails, please mannually pass the captcha code once)
     - room_id: Room room_id
     - author_id: Author id
     - limit: Number
