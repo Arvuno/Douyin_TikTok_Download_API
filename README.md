@@ -512,3 +512,6 @@ Web main interface:
 
 ## Contributing
 PRs welcome!
+
+<!-- Contributor: Arvuno - documentation update -->
+
