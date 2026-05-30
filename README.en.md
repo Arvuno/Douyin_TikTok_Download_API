@@ -317,7 +317,7 @@ Online:<https://api.douyin.wtf/docs>
     -   <https://github.com/Evil0ctal/Douyin_TikTok_Download_API/blob/30e56e5a7f97f87d60b1045befb1f6db147f8590/crawlers/tiktok/web/config.yaml#L6>
 -   I turned off the online download function of the demo site. The video someone downloaded was so huge that it crashed the server. You can right-click on the web page parsing results page to save the video...
 -   The cookies of the demo site are my own and are not guaranteed to be valid for a long time. They only serve as a demonstration. If you deploy it yourself, please obtain the cookies yourself.
--   If you need to directly access the video link returned by TikTok Web API, an HTTP 403 error will occur. Please use the API in this project.`/api/download`The interface downloads TikTok videos. This interface has been manually closed in the demo site, and you need to deploy this project by yourself.
+-   If you need to directly access the video link returned by TikTok Web API, an HTTP 403 error will occur. Please use the API in this project.`/api/download`The interface downloads TikTok videos. This interface has been mannually closed in the demo site, and you need to deploy this project by yourself.
 -   here is one**Video tutorial**You can refer to:**_<https://www.bilibili.com/video/BV1vE421j7NR/>_**
 
 ## 💻Deployment (Method 1 Linux)
